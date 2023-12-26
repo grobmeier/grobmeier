@@ -6,8 +6,8 @@ At the core of my involvement is the Apache Software Foundation, where I contrib
 
 Connecting with like-minded individuals and collaborators is something I always look forward to. Feel free to reach out to me:
 
-Mastodon: grobmeier@mastodon.social
-Email: grobmeier@gmail.com
+* Mastodon: grobmeier@mastodon.social
+* Email: grobmeier@gmail.com
 
 Your support means a lot to me. If you're interested in sponsoring my work, please consider [GitHub Sponsors](https://github.com/sponsors/grobmeier). 
 Your generosity helps me dedicate more time and resources to Open Source development, benefiting the entire community.
