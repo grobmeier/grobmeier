@@ -6,6 +6,7 @@ At the core of my involvement is the Apache Software Foundation, where I contrib
 
 Connecting with like-minded individuals and collaborators is something I always look forward to. Feel free to reach out to me:
 
+* Bluesky: [https://bsky.app/profile/grobmeier.de](https://bsky.app/profile/grobmeier.de)
 * Mastodon: grobmeier@mastodon.social
 * Email: grobmeier@gmail.com
 
