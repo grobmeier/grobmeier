@@ -1,14 +1,18 @@
 ### Hello!
 
-I'm Christian, an Open Source Developer and Trainer passionate about my work.
+I’m Christian Grobmeier — Open Source Developer, Author, and long-time contributor to the Apache Software Foundation, where I currently serve as VP of Data Privacy and on several project management committees.
+As a Java Champion and Manning author, I write, teach, and maintain projects that keep systems reliable and communities connected.
 
-At the core of my involvement is the Apache Software Foundation, where I contribute to various projects. Additionally, I've developed "Time & Bill," a time-tracking application tailored to meet European legal standards, and I'm excited to bring it into the Open Source community.
+In early 2025, I joined the first cohort of the [GitHub Secure Open Source Fund](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/), helping strengthen the security of [Apache Log4j](https://logging.apache.org) and related open-source projects.
+My reflections on open source, resilience, and engineering culture live at [Logging Off](https://grobmeier.de).
 
-Connecting with like-minded individuals and collaborators is something I always look forward to. Feel free to reach out to me:
+Let's connect:
 
-* Bluesky: [https://bsky.app/profile/grobmeier.de](https://bsky.app/profile/grobmeier.de)
-* Mastodon: [grobmeier@mastodon.social](https://mastodon.social/@grobmeier)
-* Email: grobmeier@gmail.com
+* [Logging Off](https://grobmeier.de)
+* [Bluesky](https://bsky.app/profile/grobmeier.de)
+* [Mastodon](https://mastodon.social/@grobmeier)
+* [LinkedIn](https://www.linkedin.com/in/grobmeier/)
+* Email: github@grobmeier.de
 
-Your support means a lot to me. If you want to sponsor my work, please consider [GitHub Sponsors](https://github.com/sponsors/grobmeier). 
-Your generosity helps me dedicate more time and resources to open-source development, benefiting the community.
+If you’d like to support my work, consider becoming a [GitHub Sponsors](https://github.com/sponsors/grobmeier). 
+Your sponsorship helps me dedicate time to open-source security, mentoring, and long-term community projects.
