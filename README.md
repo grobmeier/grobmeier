@@ -3,6 +3,8 @@
 I’m Christian Grobmeier — Open Source Developer, Author, and long-time contributor to the Apache Software Foundation, where I currently serve as VP of Data Privacy and on several project management committees.
 As a Java Champion, I write, teach, and maintain projects that keep systems reliable and communities connected.
 
+I currently operate [Time & Bill](https://www.timeandbill.de) and offer professional services with my company [Grobmeier Solutions GmbH](https://grobmeier.solutions).
+
 In early 2025, I joined the first cohort of the [GitHub Secure Open Source Fund](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/), helping strengthen the security of [Apache Log4j](https://logging.apache.org) and related open-source projects.
 My reflections on open source, resilience, and engineering culture live at [Logging Off](https://grobmeier.de).
 
